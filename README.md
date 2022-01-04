@@ -19,6 +19,7 @@ Important Points in Google Analytics for Begineers Course
 
 8. Shared Dashboard accessible to person with Shared View. 20 - Private Dashboard / user : 50 - Shared Dashboards / view
 
-9. Different Campaigns: Medium, Source, Campaign, Content and Term. More at: https://support.google.com/analytics/answer/6383005?hl=en
+9. Different Campaigns: Medium, Source, Campaign, Content and Term. 
+   More at: https://support.google.com/analytics/answer/6383005?hl=en
 
-10.GoogleAds = Text Ad, Display Ad
+10. GoogleAds = Text Ad, Display Ad
