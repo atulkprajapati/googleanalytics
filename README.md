@@ -8,3 +8,17 @@ Important Points in Google Analytics for Begineers Course
 
 3. Structure:
    Organization(Optional) -> Account(s) -> Properties(Consist of Tracking Code) -> View(s)
+
+4. Each property can have max of 25 views
+
+5. Be mindful about creating filter. In works in the order of the filters placed.
+
+6. Admin can restore a view upto 35 days.
+
+7. Have reports based on Faster Response or Greater Precision
+
+8. Shared Dashboard accessible to person with Shared View. 20 - Private Dashboard / user : 50 - Shared Dashboards / view
+
+9. Different Campaigns: Medium, Source, Campaign, Content and Term. More at: https://support.google.com/analytics/answer/6383005?hl=en
+
+10.GoogleAds = Text Ad, Display Ad
